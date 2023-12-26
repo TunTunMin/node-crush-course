@@ -1,5 +1,4 @@
 # node-crush-course
-# Project Title
 
 A nice project with a nice description
 
